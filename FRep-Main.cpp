@@ -2,6 +2,6 @@
 #include <vector>
 
 int main(){
-  std::vector<int> vec1(10);
+  std::vector<std::vector<int>> vec1(10);
   return 0;
 }
